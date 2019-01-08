@@ -1,0 +1,24 @@
+[
+  {
+  "recordId": "blabla",
+  "info": {
+      "recordStatus": "NEW",
+      "created": "2014-01-22T10:36:00.222Z",
+      "updated": null,
+      "deleted": null,
+      "recordData": "base64encodedbinarypayload"
+  }
+},
+
+{
+  "recordId": "testtest",
+  "info": {
+    "recordStatus": "NEW",
+    "created": "2014-01-22T10:36:00.222Z",
+    "updated": null,
+    "deleted": null,
+    "recordData": "base64encodedbinarypayload"
+    }
+}
+]
+
